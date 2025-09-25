@@ -207,7 +207,7 @@ java -cp out edu.ccrm.cli.Main
 ### **2. Sample CSV Data Files**
 
 **students.csv :**
-| Registrtaion No. |     Name      |             Email              |
+| Registration No. |     Name      |             Email              |
 |------------------|---------------|--------------------------------|
 | 24BCE10001       | Deepti Singh  | deepti.110001@vitbhopal.ac.in  |
 | 24BCE10002       | Ram Kumar     | ram.110002@vitbhopal.ac.in     |
@@ -326,7 +326,6 @@ java -cp out edu.ccrm.cli.Main
 | `backupsFolder.png`     | Backup folder structure showing timestamped folders                             |
 | `exit.png`              | Exiting the program from CLI                                                    |
 | `invalid.png`           | Invalid input handling in CLI                                                   |
-| `howToRun.png`          | General usage example of CLI workflow                                           |
 
 
 ---
@@ -348,3 +347,4 @@ This project has been developed independently while referring to these resources
 
 A walkthrough demo of the project is available here:  
 [Click to View Demo](https://drive.google.com/file/d/1mwpB7xY-QR1qX8TSVqR2DnyEva4PJP8R/view?usp=drivesdk)
+
